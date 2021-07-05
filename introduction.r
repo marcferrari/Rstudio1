@@ -1,6 +1,4 @@
 print("My name is Marc Edison Ayuson")
 print("I like Ferrari")
-print("This line is a branch test")
-print("This is another branch test #2")
-print("This is another branch test #3")
 
+print("This should be on branch-one")
